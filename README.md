@@ -262,15 +262,9 @@ The easiest ways for developers building in Web3 to start using EIP-6963 (Multi 
 - [Wallet Connect's Web3Modal (v3.1+)](https://docs.walletconnect.com/web3modal)
 - [WAGMI Release Candidate](https://beta.wagmi.sh)
 
-
-If you are building Wallet COnnection Libraries you will be happy to know that incorporating MetaMask's SDK will ensure that the connection to MetaMask supports EIP-6963 for the detection of MetaMask
-
 You can get the injected providers using Wagmi's [MIPD Store](https://github.com/wevm/mipd) With Vanilla JS and React examples. 
 
-
-I believe the SDK, which also supports EIP-6963, will be integrated into Web3Onboard
-WalletConnect supports it via Web3Modal
-Not sure about Web3 React, but looks like we’re trying to integrate the SDK there as well.
+If you are building a Wallet Connection Library you will be happy to know that incorporating MetaMask's SDK will ensure that the connection to MetaMask supports EIP-6963 for the detection of MetaMask. Once you've integrated the SDK, please contribute your library to this list. 
 
 ### MetaMask SDK
 
